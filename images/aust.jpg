@@ -1,0 +1,678 @@
+<!DOCTYPE html>
+<!-- saved from url=(0016)https://osac.in/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="">
+<title></title>
+<link href="./aust_files/bootstrap.min.css" rel="stylesheet">
+<link href="./aust_files/font-awesome.min.css" rel="stylesheet">
+<link href="./aust_files/animate.min.css" rel="stylesheet">
+<link href="./aust_files/prettyPhoto.css" rel="stylesheet">
+<link href="./aust_files/jquery.smartmenus.bootstrap.css" rel="stylesheet">
+<link href="./aust_files/sm-blue.css" rel="stylesheet">
+<link href="./aust_files/jquery.bslt.css" rel="stylesheet">
+<link href="./aust_files/main-styles.css" rel="stylesheet">
+<link href="./aust_files/responsive.css" rel="stylesheet">
+<!--[if lt IE 9]>
+<script src="js/html5shiv.js"></script>
+<script src="js/respond.min.js"></script>
+<![endif]-->       
+</head>
+<body class="homepage" style="">
+
+
+
+<header id="header" class="hder clmr">
+<div class="tpbr1">
+<div class="container">
+<!--<div class="col-sm-6">
+</div>-->
+<div class="col-sm-12 tprt">
+<!--<a href="tel:+911725000060"><i class="fa fa-phone"></i> (+91)-172-5000060</a>-->
+<!-- <div class="social">
+<ul class="social-share">
+<li><a href="https://www.facebook.com/profile.php?id=61555673523446"  target="_blank"><i class="fa fa-facebook fb"></i></a></li>
+<li><a href="https://linkedin.com/company/overseas-student-application-centre-osac"  target="_blank"><i class="fa fa-linkedin"></i></a></li> 
+</ul>
+</div> -->
+<div class="logo"><a href="https://osac.in/index.html"><img src="./aust_files/logo.png" alt=""></a></div>
+</div>
+
+</div>
+</div>
+
+
+
+<div class="col-sm-12 centernav">
+<div class="container">
+<div class="navbar navbar-default" role="navigation" id="nav">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="sr-only">Toggle navigation</span>
+</button>
+
+</div>
+<div class="navbar-collapse collapse navbar-right navbar-ex1-collapse">
+<ul class="nav navbar-nav" data-smartmenus-id="1708250170338988">
+<li><a href="https://osac.in/index.html">Home</a></li>
+<li><a href="https://osac.in/about-us.html">About us</a></li>
+
+<li>
+<a href="https://osac.in/#" class="dropdown-toggle has-submenu" id="sm-1708250170338988-1" aria-haspopup="true" aria-controls="sm-1708250170338988-2" aria-expanded="false">Services</a>
+<ul class="dropdown-menu" id="sm-1708250170338988-2" role="group" aria-hidden="true" aria-labelledby="sm-1708250170338988-1" aria-expanded="false">
+<li><a href="https://osac.in/services.html#ldnsd">Academic Counseling</a></li>
+<li><a href="https://osac.in/services.html#ldnsd5">Visa Processing</a></li>
+<li><a href="https://osac.in/services.html#ldnsd6">SOP Assistance  </a></li>
+<li><a href="https://osac.in/services.html#ldnsd7">Scholarships</a></li>
+<li><a href="https://osac.in/services.html#ldnsd8">Ease The Transition Period</a></li>
+<li><a href="https://osac.in/services.html#ldnsd9">English Proficiency Test</a></li>
+<li><a href="https://osac.in/services.html#ldnsd10">Travel Guidance </a></li>
+</ul>
+</li>
+
+<li class="">
+<a href="https://osac.in/#" class="dropdown-toggle has-submenu" id="sm-1708250170338988-3" aria-haspopup="true" aria-controls="sm-1708250170338988-4" aria-expanded="false">Study Abroad</a>
+<ul class="dropdown-menu sm-nowrap" id="sm-1708250170338988-4" role="group" aria-hidden="true" aria-labelledby="sm-1708250170338988-3" aria-expanded="false" style="width: auto; min-width: 10em; display: none; max-width: 20em; top: auto; left: 0px; margin-left: 0px; margin-top: 0px;">
+<li><a href="https://osac.in/study-in-australia.html">Australia</a></li>
+<li><a href="https://osac.in/study-in-new-zealand.html">New Zealand </a></li>
+<li><a href="https://osac.in/study-in-canada.html">Canada  </a></li>
+<li><a href="https://osac.in/study-in-uk.html">UK</a></li>
+<li><a href="https://osac.in/study-in-usa.html">USA</a></li>
+<li><a href="https://osac.in/study-in-france.html">France</a></li>
+</ul>
+</li>
+
+
+
+<!--<li><a href="testimonials.html">Testimonials</a></li>-->
+<li><a href="https://osac.in/contact-us.html">Contact Us</a></li>
+</ul>
+</div>
+<div class="social">
+<ul class="social-share">
+<li><a href="https://www.facebook.com/profile.php?id=61555673523446" target="_blank"><i class="fa fa-facebook fb"></i></a></li>
+<li><a href="https://linkedin.com/company/overseas-student-application-centre-osac" target="_blank"><i class="fa fa-linkedin"></i></a></li> 
+<!-- <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+<li><a href="#" target="_blank"><i class="fa fa-instagram"></i></a></li> -->
+</ul>
+</div>
+</div>
+</div>
+</div>
+</header>
+
+<section id="main-slider" class="no-margin clmrsldr clmr">
+<div class="carousel slide">
+<ol class="carousel-indicators hn">
+<li data-target="#main-slider" data-slide-to="0" class=""></li>
+<li data-target="#main-slider" data-slide-to="1" class="active"></li>
+<li data-target="#main-slider" data-slide-to="2"></li>
+</ol>
+<div class="carousel-inner">
+<div class="item imgrt" style="background-image: url(images/slider/slider.jpg); background-position: center center;">
+<div class="container">
+<div class="row slide-margin">
+<div class="carousel-content">
+<div class="clm5">
+<h2 class="animation animated-item-1 sld_tx1">Your Pathway to Excellence</h2>
+<h2 class="animation animated-item-1-1 sld_tx2"> Crafting Success Stories Beyond Borders
+ </h2>
+<p class="ldsldr1 animation animated-item-2">
+Expert Guidance for studying and settle abroad to achieving a seamless settlement in a new land.
+</p>
+<p class="animation animated-item-2-1"> 
+<a href="https://osac.in/#snltmpr" class="btn btnsldr1">Know More</a>
+<a href="https://osac.in/contact-us.html" class="btn btnsldr2">Discover Opportunities</a>
+</p>
+</div>
+</div>
+</div> 
+</div>
+</div>
+<!-- 1 -->
+
+<div class="item imgrt active" style="background-image: url(images/slider/slider2.jpg); background-position: center center;">
+<div class="container">
+<div class="row slide-margin">
+<div class="carousel-content">
+<div class="clm5">
+<h2 class="animation animated-item-1 sld_tx1">Your Pathway to Excellence</h2>
+<h2 class="animation animated-item-1-1 sld_tx2"> Crafting Success Stories Beyond Borders
+</h2>
+<p class="ldsldr1 animation animated-item-2">
+Expert Guidance for studying and settle abroad to achieving a seamless settlement in a new land.
+</p>
+<p class="animation animated-item-2-1"> 
+<a href="https://osac.in/#snltmpr" class="btn btnsldr1">Know More</a>
+<a href="https://osac.in/contact-us.html" class="btn btnsldr2">Discover Opportunities</a>
+</p>
+</div>
+</div>
+</div> 
+</div>
+</div>
+<!-- 2 -->
+
+</div>
+</div>
+<div class="hn">
+<a class="prev hidden-xs" href="https://osac.in/#main-slider" data-slide="prev">
+<i class="fa fa-chevron-left"></i></a>
+<a class="next hidden-xs" href="https://osac.in/#main-slider" data-slide="next">
+<i class="fa fa-chevron-right"></i></a>
+</div>
+</section>
+<div class="clearfix"></div>
+<!--<div class="slider wow animated fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms" >
+<div class="header_banner">
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+
+<ol class="carousel-indicators">
+<li data-target="#myCarousel" data-slide-to="0" class=""></li>
+<li data-target="#myCarousel" data-slide-to="1" class="active"></li>
+<li data-target="#myCarousel" data-slide-to="2" class=""></li>
+<li data-target="#myCarousel" data-slide-to="3"></li>
+</ol>
+<div class="carousel-inner">
+<div class="item active imrt" style="background-image: url(images/slider/slider.jpg); background-position: center center;">
+<div class="container">
+<div class="row slide-margin">
+<div class="carousel-content">
+<div class="col-sm-5">
+<h2 class="animation animated-item-1 sld_tx1">Your Pathway to Excellence</h2>
+<h3 class="animation animated-item-2 sld_tx2">Crafting Success Stories Beyond Borders</h3>
+<h3 class="animation animated-item-3 sld_tx3">Expert Guidance for studying and settle abroad to achieving a seamless settlement in a new land.</h3> 
+<p class="btncntr animation animated-item-2-1">
+<a href="#" class="btn btnsldr1">Know More</a>
+<a href="#" class="btn btnsldr2">Discover Opportunities</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="item imrt" style="background-image: url(images/slider/slider2.jpg); background-position: center center;">
+<div class="container">
+<div class="row slide-margin">
+<div class="carousel-content">
+<div class="col-sm-5">
+<h2 class="animation animated-item-1 sld_tx1">Your Pathway to Excellence</h2>
+<h3 class="animation animated-item-2 sld_tx2">Crafting Success Stories Beyond Borders</h3>
+<h3 class="animation animated-item-3 sld_tx3">Expert Guidance for studying and settle abroad to achieving a seamless settlement in a new land.</h3> 
+<p class="btncntr animation animated-item-2-1">
+<a href="#" class="btn btnsldr1">Know More</a>
+<a href="#" class="btn btnsldr2">Discover Opportunities</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>-->
+
+
+<section id="tstprhm" class="sntspr" style="">
+<div class="container wow animated fadeInLeft animated" data-wow-duration="1100ms" data-wow-delay="800ms" style="visibility: visible; animation-duration: 1100ms; animation-delay: 800ms; animation-name: fadeInLeft;">
+<div class="clm12">
+<div class="crscntr">
+<div class="tscnt">
+<h3 class="h3crstl clr12"> About <span>OSAC </span></h3>
+<h4 class="h4sbtl">The Overseas Student Application Centre (OSAC) is a <br>collaboration between Touchstone Educationals LLP and Edutech Limited.</h4>
+<hr class="hrtsp">
+</div>
+<div class="cntst">
+<p class="ldcrs">
+Touchstone Educationals LLP, headquartered in India, and Touchstone Educationals France, based in France, are leading forces in student recruitment, connecting ambitious learners with esteemed educational institutions worldwide, spanning countries such as Canada, Australia, USA, UK, and New Zealand. With a robust network of business units encompassing student recruitment, English coaching, and testing centers across India and France, Touchstone Educationals maintains strong alliances with numerous agents and licensed recruitment agencies across India, Nepal, Sri Lanka, and the Middle East. Renowned for their excellence in student recruitment, Touchstone Educationals has earned various prestigious awards in the field.	
+</p>
+<a href="https://osac.in/about-us.html" class="btn btnsldr2">Know More</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="clearfix"></div>
+<section id="snltmpr" class="mprlthm" style="">
+<div class="container an-cntr wow fadeInUp animated" data-wow-duration="1100ms" data-wow-delay="400ms" style="visibility: visible; animation-duration: 1100ms; animation-delay: 400ms; animation-name: fadeInUp;">
+<div class="row">
+<div class="clm6">
+</div>
+<div class="clm6">
+<div class="txcntr-hm1">
+<h2 class="h2ltmpr">Australia - Study Visa</h2>
+<hr class="hrsrvn1">
+<p class="ldltsad">Discover the wonders of Australia – a land adorned with iconic kangaroos, cuddly koalas, and vast outback landscapes. Embark on a journey towards a brighter future, where the combination of a laid-back atmosphere and a stellar education system beckon a multitude of international students. Seize the opportunity with a country that not only opens doors to enhanced work prospects but also unfolds a world of enriching experiences. <br><br> <strong>Top-tier Universities:</strong><br>
+Australia proudly hosts some of the world's leading universities, presenting international students with a plethora of courses and degrees. The fusion of quality and quantity places certain institutions among the coveted top 100 globally. 
+</p>
+<a href="https://osac.in/study-in-australia.html" class="btn btnsldr3">Know More</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="clearfix"></div>
+<section id="snwch1" class="hmwch" style="">
+<div class="container nz-cntr wow fadeInDown animated" data-wow-duration="1100ms" data-wow-delay="800ms" style="visibility: visible; animation-duration: 1100ms; animation-delay: 800ms; animation-name: fadeInDown;">
+<div class="row">
+<div class="clm6">
+<div class="txcntr-hm1">
+<h2 class="h2ltmpr">New Zealand - Study Visa</h2>
+<hr class="hrsrvn1">
+<p class="ldltsad5"><strong>Explore the Wonders of New Zealand:</strong><br>
+Welcome to New Zealand, a country that not only boasts breath-taking landscapes and warm-hearted people but also stands out for its world-class educational systems, designed to cultivate both academic prowess and interpersonal skills.<br><br>
+<strong>Cutting-Edge Education for Tomorrow's Leaders:</strong><br>
+New Zealand embraces the evolving world by offering you the freedom to shape your learning experience. The pedagogical approach revolves around research-based teaching, empowering you to navigate real-life challenges. The curriculum encourages independent thinking and collaborative teamwork, fostering diverse problem-solving approaches.
+</p>
+<a href="https://osac.in/study-in-new-zealand.html" class="btn btnsldr3">Know More</a>
+</div>
+</div>
+<div class="clm6">
+</div>
+</div>
+</div>
+</section>
+<div class="clearfix"></div>
+<section id="snabrd" class="hmsdabr wow fadeIn animated" style="visibility: visible; animation-name: fadeIn;">
+<div class="container an-cntr wow fadeInRight animated" data-wow-duration="1600ms" data-wow-delay="800ms" style="visibility: visible; animation-duration: 1600ms; animation-delay: 800ms; animation-name: fadeInRight;">
+<div class="row">
+<div class="clm6">
+</div>
+
+<div class="clm6">
+<div class="txcntr-hm1">	
+<h2 class="h2ltmpr">Canada - study visa</h2>
+<hr class="hrsrvn1">
+<p class="ldltsad"><strong>Embark on Your Educational Journey in Canada:</strong><br>
+Canada, a beacon of educational excellence, has solidified its reputation as the preferred study destination for international students. Immerse yourself in the Canadian difference and receive an internationally recognized education from some of the world's top-class institutions.<br><br> <strong>Academic Brilliance:</strong><br>
+In Canada, education is a provincial responsibility, ensuring a commitment to high-quality learning for every individual. With universities consistently ranking among the top 100 globally, you have a plethora of programs to choose from, including advanced diplomas and specialized courses. Whatever your passion, Canada offers a relevant program to fuel your educational aspirations.
+</p>
+
+<a href="https://osac.in/study-in-canada.html" class="btn btnsldr3">Know More</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="hmtsmn" class="sntsmnl" style="">
+<div class="container nz-cntr wow fadeInUp animated" data-wow-duration="1100ms" data-wow-delay="600ms" style="visibility: visible; animation-duration: 1100ms; animation-delay: 600ms; animation-name: fadeInUp;">
+<div class="row">
+<div class="clm6">
+<div class="txcntr-hm1">	
+<h2 class="h2ltmpr">UK - study visa</h2>
+<hr class="hrsrvn1">
+<p class="ldltsad"><strong>Elevate Your Educational Journey in the United Kingdom: </strong><br>
+Unleash the unparalleled academic prowess of the United Kingdom, an experience that stands as an indomitable force in the world of education. Throughout history, the UK has been the beacon for brilliant minds, making it the ultimate destination for those who dream big and aim even higher. Immerse yourself in a realm of short, flexible courses meticulously tailored to align with your passions, amplifying your skills on the journey to success. <br><br> <strong>World-Renowned Universities: </strong><br> Bask in the global prestige of UK higher education degrees, revered around the world. A degree from a UK institution adds an exceptional touch to your CV, creating an impressive profile for prospective employers. 
+</p>
+<a href="https://osac.in/study-in-uk.html" class="btn btnsldr3">Know More</a>
+</div>
+</div>
+
+<div class="clm6">
+</div>
+</div>
+</div>
+</section>
+
+
+<!--<section id="hmsrv" class="snhmsrv">
+<div class="container">
+<div class="clm12 wow animated fadeInUp" data-wow-duration="1100ms" data-wow-delay="400ms">
+<h2 class="h2abthm">Testimonials</h2>
+<hr class="hrpri">
+</div>
+
+<div class="clm12 tsmnlctr cntrtsm wow animated fadeIn" data-wow-duration="1100ms" data-wow-delay="400ms">
+<ul class="lstsmn">
+<li>
+<div class="tsimcntr">
+<img src="images/testi1.png" alt="">
+<p class="tsmnm">Hima Jain</p>
+<span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
+</div>
+<div class="smtrn">
+
+<p class="tsmtx">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud  itation ullamco laboris nisi ut.
+</p>
+</div>
+</li>
+<li>
+<div class="tsimcntr">
+<img src="images/testi1.png" alt="">
+<p class="tsmnm">Hima Jain</p>
+<span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
+</div>
+<div class="smtrn">
+<p class="tsmtx">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud  itation ullamco laboris nisi ut.</p>
+</div>
+</li>
+<li>
+<div class="tsimcntr">
+<img src="images/testi1.png" alt="">
+<p class="tsmnm">Hima Jain</p>
+<span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
+</div>
+<div class="smtrn">
+<p class="tsmtx">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud  itation ullamco laboris nisi ut.</p>
+</div>
+</li>
+<li>
+<div class="tsimcntr">
+<img src="images/testi1.png" alt="">
+<p class="tsmnm">Hima Jain</p>
+<span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
+</div>
+<div class="smtrn">
+<p class="tsmtx">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud  itation ullamco laboris nisi ut.</p>
+</div>
+</li>
+<li>
+<div class="tsimcntr">
+<img src="images/testi1.png" alt="">
+<p class="tsmnm">Hima Jain</p>
+<span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
+</div>
+<div class="smtrn">
+<p class="tsmtx">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud  itation ullamco laboris nisi ut. </p>
+</div>
+</li>
+<li>
+<div class="tsimcntr">
+<img src="images/testi1.png" alt="">
+<p class="tsmnm">Hima Jain</p>
+<span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
+</div>
+<div class="smtrn">
+<p class="tsmtx">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud  itation ullamco laboris nisi ut.</p>
+</div>
+</li>
+<li>
+<div class="tsimcntr">
+<img src="images/testi1.png" alt="">
+<p class="tsmnm">Hima Jain</p>
+<span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
+</div>
+<div class="smtrn">
+<p class="tsmtx">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud  itation ullamco laboris nisi ut.</p>
+</div>
+</li>
+<li>
+<div class="tsimcntr">
+<img src="images/testi1.png" alt="">
+<p class="tsmnm">Hima Jain</p>
+<span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
+</div>
+<div class="smtrn">
+
+<p class="tsmtx">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud  itation ullamco laboris nisi ut. </p>
+</div>
+</li>
+
+
+<li>
+<div class="tsimcntr">
+<img src="images/testi1.png" alt="">
+<p class="tsmnm">Hima Jain</p>
+<span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></span>
+</div>
+<div class="smtrn">
+
+<p class="tsmtx">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud  itation ullamco laboris nisi ut.</p>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</section>-->
+
+
+
+<section id="snhmfrm" class="frmhmsn" style="">
+<div class="container">
+<div class="clm4 wow animated fadeInRight animated" data-wow-duration="1100ms" data-wow-delay="600ms" style="visibility: visible; animation-duration: 1100ms; animation-delay: 600ms; animation-name: fadeInRight;">
+<div class="frmcntrft">
+<h2 class="h2frmtl">Ask us a question</h2>
+<p class="ldfrmh1">Please fill up the form below so that we can get
+in touch with you at the earliest.</p>
+<form action="https://osac.in/enquiryft.php" method="post" class="frmdn1">
+<div class="form-group">
+<input type="text" name="nameft" id="nameft" placeholder="Your Name" class="form-control">
+</div>
+<div class="form-group">
+<input type="text" name="emailft" id="emailft" placeholder="Email Address" class="form-control">
+</div>
+<div class="form-group">
+<input type="text" name="phoneft" id="phoneft" placeholder="Contact No." class="form-control">
+</div>
+<div class="form-group">
+<textarea name="messageft" id="messageft" placeholder="Your Query" class="form-control"></textarea>
+</div>
+	<p class="ant">
+	<input type="text" class="form-control" name="websiteft" id="websiteft" placeholder="Website">
+	</p>
+<button class="btn btnfrm" onclick="return checkdata()">Submit</button>
+</form>
+</div>
+</div>
+</div>
+</section>
+
+
+<section id="snbkapt" class="hmbkapt" style="">
+<div class="container xsbg1">
+<div class="clm4 wow animated fadeInRight animated" data-wow-duration="1100ms" data-wow-delay="600ms" style="visibility: visible; animation-duration: 1100ms; animation-delay: 600ms; animation-name: fadeInRight;">
+<h2 class="h2bkapt">Book an Appointment</h2>
+<hr class="hrrdlft">
+
+<p class="ldbkapt"><span class="bdrbtm"><span><i class="fa fa-phone"></i> Chandigarh:</span>  <a href="tel:+91172-5000060">(+91)-172-5000060  </a>   </span></p>
+
+<p class="ldbkapt"><span class="bdrbtm"><span><i class="fa fa-phone"></i> France:</span>  <a href="tel:+33984008247">+(33) 9 84 00 82 47 </a>   </span></p>
+
+<p class="ldbkapt"><span><i class="fa fa-envelope-o"></i> Email:</span>  <a href="mailto:info@osac.in">info@osac.in</a>
+</p>
+</div>
+</div>
+</section>
+
+
+
+<section id="ftrbtm" class="btmftr" style="">
+<div class="container">
+<div class="rw">
+<div class="clm7 wow animated fadeInRight animated" data-wow-duration="1100ms" data-wow-delay="600ms" style="visibility: visible; animation-duration: 1100ms; animation-delay: 600ms; animation-name: fadeInRight;">
+<div class="row">
+<div class="clm6">
+<br>
+<iframe src="./aust_files/embed.html" width="100%" height="230" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<br><br>
+
+<iframe src="./aust_files/embed(1).html" width="100%" height="230" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+
+
+<div class="clm6">
+<h3 class="h3bthm"><i class="fa fa-map-marker"></i> Meet Us (India) </h3>
+<p class="ldftr">
+SCO 88-89, Level 1, Sector 17-C Chandigarh
+</p>
+
+
+<h3 class="h3bthm"><i class="fa fa-phone"></i> Call Us</h3>
+<p class="ldftr">
+(+91)-172-5000060
+</p>
+
+
+<h3 class="h3bthm"><i class="fa fa-envelope-o"></i> Email</h3>
+<p class="ldftr">
+info@osac.in
+</p>
+
+
+
+<h3 class="h3bthm"><i class="fa fa-map-marker"></i> Meet Us (France) </h3>
+<p class="ldftr">
+15 Bd Richard-Lenoir, 75011 Paris, France
+</p>
+
+
+<h3 class="h3bthm"><i class="fa fa-phone"></i> Call Us</h3>
+<p class="ldftr">
++(33) 9 84 00 82 47
+</p>
+
+<!-- 
+<h3 class="h3bthm"><i class="fa fa-envelope-o"></i> Email</h3>
+<p class="ldftr">
+info.osac.in
+</p> -->
+</div>
+
+</div>
+</div>
+<div class="clm5 wow animated fadeInLeft animated" data-wow-duration="1100ms" data-wow-delay="600ms" style="visibility: visible; animation-duration: 1100ms; animation-delay: 600ms; animation-name: fadeInLeft;">
+<div class="rw">
+<div class="clm6">
+<h3 class="h3bthm2">Quick Links</h3>
+<ul class="lsbtm1">
+<li><a href="https://osac.in/index.html">HOME</a></li>
+<li><a href="https://osac.in/about-us.html">ABOUT US</a></li>
+<li><a href="https://osac.in/services.html">SERVICES</a></li>
+<!--<li><a href="testimonials.html">TESTIMONIALS</a></li>-->
+<li><a href="https://osac.in/contact-us.html">CONTACT US</a></li>
+</ul>
+</div>
+<div class="clm6">
+<h3 class="h3bthm2">Study Abroad</h3>
+<ul class="lsbtm1">
+<li><a href="https://osac.in/study-in-australia.html">AUSTRALIA</a></li>
+<li><a href="https://osac.in/study-in-new-zealand.html">NEW ZEALAND </a></li>
+<li><a href="https://osac.in/study-in-canada.html">CANADA  </a></li>
+<li><a href="https://osac.in/study-in-uk.html">UK</a></li>
+<li><a href="https://osac.in/study-in-usa.html">USA</a></li>
+<li><a href="https://osac.in/study-in-france.html">FRANCE</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="container-fluid bdrbtm8">
+<div class="container">
+<div class="rw">
+<div class="clm6">
+<p class="cprtld">© 2023 OSAC. All Rights Reserved.</p>
+<p class="dsnby">Designed by <a href="http://amsinformatics.com/" target="_blank">AMS Informatics</a></p>
+</div>
+<div class="clm6">
+<div class="social-ft">
+Follow us
+<ul class="socialftr">
+<li><a href="https://www.facebook.com/profile.php?id=61555673523446" target="_blank"><i class="fa fa-facebook fb"></i></a></li>
+<li><a href="https://linkedin.com/company/overseas-student-application-centre-osac" target="_blank"><i class="fa fa-linkedin"></i></a></li> 
+<!-- <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+<li><a href="#" target="_blank"><i class="fa fa-instagram"></i></a></li> -->
+</ul>
+</div>
+</div>
+</div>
+</div>	
+</div>
+</section>
+
+
+
+
+<!-- <a href="#0" class="cd-top">Top</a> -->
+<script src="./aust_files/jquery.js.download"></script>
+<script src="./aust_files/bootstrap.min.js.download"></script>
+<script src="./aust_files/jquery.prettyPhoto.js.download"></script>
+<script src="./aust_files/jquery.smartmenus.js.download"></script>
+<script src="./aust_files/jquery.smartmenus.bootstrap.min.js.download"></script>
+<script src="./aust_files/waypoints.js.download"></script>
+<script src="./aust_files/wow.min.js.download"></script>
+
+<script src="./aust_files/jquery.bslt.min.js.download"></script>
+<script src="./aust_files/main.js.download"></script>
+<script>
+$('.lstsmn').bxSlider({
+auto: true,
+minSlides: 1,
+maxSlides: 4,
+slideWidth: 265,
+slideMargin: 20,
+pager: true,
+moveSlides: 4,
+speed: 2000,
+pause: 8000,
+});
+$('.frxtk').bxSlider({
+minSlides: 1,
+maxSlides: 5,
+mode: 'horizontal',
+slideWidth: 210,
+slideMargin: 25,
+ticker: true,
+tickerHover: true,
+speed: 11000,
+shrinkItems: true,
+adaptiveHeight: true,
+pager: false,
+controls: true
+});
+var ot = {
+  separator: '',
+};
+jQuery(document).ready(function ($) {
+
+if(!$('#detalsprod').length){  
+return false;
+}
+
+$("body").scrollspy({
+target: "#detalsprod",
+offset: 0
+}) 
+
+var demo0 = new CountUp("timer0", 1000, 5, 0, 3, ot);
+var demo1 = new CountUp("timer1", 100, 40, 0, 3, ot);
+var demo2 = new CountUp("timer2", 0, 99.7, 1, 3, ot);
+var demo3 = new CountUp("timer3", 100, 4.2, 1, 2.2);
+// var demo4 = new CountUp("timer4", 15, 15, 0, 3);
+
+function startcont(){
+demo0.start();
+demo1.start(); 
+demo2.start(); 
+demo3.start(); 
+//demo4.start(); 
+}
+var waypoint = new Waypoint({
+element: document.getElementById('detalsprod'),
+handler: function(direction) {    
+if (direction === 'down') {
+startcont() 
+}
+},
+offset: '90%'
+});
+});
+
+</script>
+
+
+</body></html>

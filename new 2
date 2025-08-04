@@ -1,0 +1,77 @@
+<?php
+	include_once('header.php');
+?>
+<html>
+<head>
+<title>study Abroad</title>
+<link rel="stylesheet" href="style1.css">
+
+</head>
+<body>
+<div id="aust1">
+
+<image src="images/15.jpg"height="350px"width="100%">
+<div class="bottom-right"><h1 style="font-size:55px;"><b>CANADA</b></h1></div>
+<!--<image src="images/Sydney-banner.jpg"height="300px"width="100%">-->
+</div>
+
+<div id="aust2">
+<div class="content1">
+<h1 style="font-size:45px;color: #006699;"><b><u>STUDY IN CANADA</u> </b></h1>
+<h3 style="color:#565957;">Embark on Your Educational Journey in Canada:</h3>
+	<h4 style="color:#7682a3;">Canada, a beacon of educational excellence, has solidified its reputation as the preferred study destination for international students. Immerse yourself in the Canadian difference and receive an internationally recognized education from some of the world's top-class institutions.</h4>
+</div>
+<div class="content2">
+<image src="images/study-in-uk.jpg" width="400px" height="250px">
+</div>
+</div>
+
+<div id="aust3">
+	
+	<h3 style="color:#565957;">Academic Brilliance:</h3>
+	<h4 style="color:#7682a3;">In Canada, education is a provincial responsibility, ensuring a commitment to high-quality learning for every individual. With universities consistently ranking among the top 100 globally, you have a plethora
+
+
+of programs to choose from, including advanced diplomas and specialized courses. Whatever your passion, Canada offers a relevant program to fuel your educational aspirations.</h4>
+	
+	<h3 style="color:#565957;">Individual Development Focus:</h3>
+	<h4 style="color:#7682a3;">World-class education extends beyond the confines of classrooms. Canada pioneers a co-op system, allowing students to gain practical knowledge in their field of study. This hands-on approach not only familiarizes students with the work environment but instills discipline at an early stage.</h4>
+	
+	<h3 style="color:#565957;">Pinnacle of Quality Living:</h3>
+	<h4 style="color:#7682a3;">Canada stands as one of the safest and most comfortable countries on Earth, providing its citizens with a contented life free from substantial hardships. Social metrics underscore the luxurious yet affordable quality of life Canadians enjoy. The country is a haven of health and well-being, void of widespread infectious disease concerns.</h4>
+	
+	<h3 style="color:#565957;">Earn While You Learn Eligibility:</h3>
+	<h4 style="color:#7682a3;">The ability to work while studying hinges on your study permit. As a permit holder, you may be granted dedicated hours per week to work alongside your studies, with the count varying between regular days and vacations. This unique opportunity enriches your academic experience with practical, real-world exposure.</h4>
+	
+	<h3 style="color:#565957;">Affordable Educational Investment:</h3>
+	<h4 style="color:#7682a3;">Canadian education is an investment in your future, offering not just knowledge but a wealth of skills and expertise. The average annual fees for study programs in Canada range from 15,000 CAD to 20,000 CAD, depending on your chosen subjects and institution. Compared to other high-profile countries, the annual budget for studying in Canada falls on the lower end of the scale, making it a prudent choice for aspiring students.</h4>
+	
+	<h3 style="color:#565957;">Canada: The Global Connector:</h3>
+	<h4 style="color:#7682a3;">As one of the largest trading nations globally, Canada boasts the best-educated, highly-skilled, and diverse workforce. The country has a robust history of welcoming overseas students and investors by consistently offering low tuition fees and business taxes, respectively. Choose Canada as your global connector for a world-class education and boundless opportunities.</h4>
+	
+</div>
+<div id="aust4">
+<image src="images/20150826164013-two-office-woman-working-on-project.jpeg"height="400px"width="100%">
+<div class="bottom-left"><h1 style="font-size:55px;"><b>book an appointment </b></h1>
+<style>
+hr{
+	width:20%;
+	border-radius:25%;
+	border-width: 10px;
+}
+	
+</style>
+<hr>
+<h3> Chandigarh: (+91)-172-5000060</h3>
+<h3> France: +(33) 9 84 00 82 47</h3>
+<h3> Email: info@osac.in</h3>
+
+</div>
+
+</div>
+<?php
+	include_once('footer.php');
+?>
+
+
+		
