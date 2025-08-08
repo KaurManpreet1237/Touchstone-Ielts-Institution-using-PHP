@@ -60,7 +60,7 @@ Some notable PHP pages:
 
 ## 🧑‍💻 Author
 
-**Manpreet Kaur**
+**Manpreet Kaur*
 
 ---
 
